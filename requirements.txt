@@ -2,5 +2,4 @@ OpenAIAuth>=2.0.0
 requests[socks]
 httpx[socks]
 prompt-toolkit
-openai
 rich
