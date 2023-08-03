@@ -37,7 +37,6 @@ setup(
         "requests[socks]",
         "httpx[socks]",
         "prompt-toolkit",
-        "tiktoken>=0.3.0",
         "openai",
         "rich",
     ],
